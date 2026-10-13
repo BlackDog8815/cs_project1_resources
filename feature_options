@@ -1,0 +1,22 @@
+[
+  {
+    "optionId": 1,
+    "name": "Calendar"
+  },
+  {
+    "optionId": 2,
+    "name": "Events"
+  },
+  {
+    "optionId": 3,
+    "name": "Tasks"
+  },
+  {
+    "optionId": 4,
+    "name": "News"
+  },
+  {
+    "optionId": 5,
+    "name": "Some game"
+  }
+]
